@@ -1,6 +1,8 @@
 # Letian Chat
 An iOS messaging application using Swift, Xcode, and the MVC design pattern.\
+\
 ![alt text](https://github.com/letianqin123/letianchat/blob/main/demo.gif)
+\
 \
 ● Designed and implemented key screens with custom assets, showcasing proficient UI customization using .xib files.\
 ● Integrated Firebase Authentication for secure user registration and login functionalities; employed Cloud Firestore as a
